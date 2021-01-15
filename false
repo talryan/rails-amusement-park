@@ -1,0 +1,4 @@
+      invoke  active_record
+      create    db/migrate/20210114190750_create_users.rb
+    conflict    app/models/user.rb
+  Overwrite /Users/nataliaryan/assignments/rails-amusement-park/app/models/user.rb? (enter "h" for help) [Ynaqdhm] [K  Overwrite /Users/nataliaryan/assignments/rails-amusement-park/app/models/user.rb? (enter "h" for help) [Ynaqdhm] [K  Overwrite /Users/nataliaryan/assignments/rails-amusement-park/app/models/user.rb? (enter "h" for help) [Ynaqdhm] 
